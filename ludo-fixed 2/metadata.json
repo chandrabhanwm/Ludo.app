@@ -1,8 +1,0 @@
-{
-  "name": "Final: Premium Ludo",
-  "description": "A highly polished, premium Ludo game featuring a modern mobile game UI, responsive layout, beautiful fluid token animations, 3D-feeling dice rolls, smart AI bots, and pass-and-play multiplayer.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
